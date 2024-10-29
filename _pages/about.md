@@ -36,7 +36,7 @@ I'm currently pursuing a Software Development Engineer (SDE) internship for Summ
   *Aug 2021 - Oct 2021*  
   - Created a full-stack web application using the Twitch API to provide real-time personalized recommendations, increasing content relevancy by 25%.
 
-(more can be found on my LinkedIn: **LinkedIn**: [linkedin.com/in/wenxin-song/](https://www.linkedin.com/in/wenxin-song/))
+(more can be found on my LinkedIn: **LinkedIn**: [linkedin.com/in/wenxin-song](https://www.linkedin.com/in/wenxin-song/))
 ## 🔬 Research Experience
 - *2023.06 - 2023.10*, **University of Notre Dame**, South Bend, IN  
   **Research Assistant**  
@@ -54,7 +54,7 @@ I'm currently pursuing a Software Development Engineer (SDE) internship for Summ
   
 ## 📫 Connect with Me
 - **Email**: [ws2747@columbia.edu](mailto:ws2747@columbia.edu)
-- **LinkedIn**: [linkedin.com/in/wenxin-song/](https://www.linkedin.com/in/wenxin-song/)
+- **LinkedIn**: [linkedin.com/in/wenxin-song](https://www.linkedin.com/in/wenxin-song/)
 - **GitHub**: [github.com/wayneSongwx](https://github.com/wayneSongwx)
 
 Thank you for visiting my profile!
