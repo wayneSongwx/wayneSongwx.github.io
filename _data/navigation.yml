@@ -4,19 +4,19 @@ main:
     url: "/#about-me"
 
   - title: "Educations"
-    url: "/#educations"
+    url: "/#-educations"
 
   - title: "Technical Skills"
-    url: "/#technical-skills"
+    url: "/#-technical-skills"
 
   - title: "Project Experience"
-    url: "/#project-experience-full-stack"
+    url: "/#-project-experience-full-stack"
 
   - title: "Research Experience"
-    url: "/#research-experience"
+    url: "/#-research-experience"
 
   - title: "Publications"
-    url: "/#publications"
+    url: "/#-publications"
 
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
