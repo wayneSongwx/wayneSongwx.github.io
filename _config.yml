@@ -1,4 +1,4 @@
-nx# Welcome to Jekyll!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -8,7 +8,7 @@ nx# Welcome to Jekyll!
 # Site Settings
 title                    : "Wenxin (Wayne) Song"
 description              : "First year Computer Science Graduate Student @ Columbia University."
-repository               : "https://github.com/wayneSongwx/wayneSongwx.github.io"
+repository               : "wayneSongwx/wayneSongwx.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -24,11 +24,11 @@ author:
   name             : "Wenxin (Wayne) Song"
   avatar           : 
   bio              : "Columbia Univerisity"
-  location         : "New York, US"
+  location         : "New York, United States"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "ws27@columbia.edu"
+  email            : "ws2747@columbia.edu"
   researchgate     : 
   uri              :
   bitbucket        :
