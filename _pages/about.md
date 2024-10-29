@@ -24,15 +24,15 @@ I'm currently pursuing a Software Development Engineer (SDE) internship for Summ
 
 ## 💻 Project Experience (full-stack)
 
-- **OnlineOrder: A Spring and Hibernate-Based Food Ordering System**  
+- **[OnlineOrder: A Spring and Hibernate-Based Food Ordering System](https://github.com/wayneSongwx/OnlineOrder)**  
   *Mar 2024 - May 2024*  
   - Developed a single-page web application using React and Ant Design, featuring an intuitive shopping cart and checkout process, resulting in a 10% improvement in user satisfaction scores.
 
-- **StayBooking: An Online Stay Rental Application with React and Spring Boot**  
+- **[StayBooking: An Online Stay Rental Application with React and Spring Boot](https://github.com/wayneSongwx/Staybooking)**  
   *Apr 2023 - Jun 2023*  
   - Developed a single-page web application using React and Ant Design for an enhanced, user-friendly experience.
 
-- **Twitch+: Personalized Resources Recommendation Engine**  
+- **[Twitch+: Personalized Resources Recommendation Engine](https://github.com/wayneSongwx/Twitch)**  
   *Aug 2021 - Oct 2021*  
   - Created a full-stack web application using the Twitch API to provide real-time personalized recommendations, increasing content relevancy by 25%.
 
