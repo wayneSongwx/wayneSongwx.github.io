@@ -22,13 +22,20 @@ I'm currently pursuing a Software Development Engineer (SDE) internship for Summ
 - **Frameworks and Platforms**: React, Node.js, Spring Boot, Linux, Android, AWS EC2, Google Cloud Platform, Ant Design, Elasticsearch, Restful API, Jetpack Compose, Langchain, Google App Engine, Flask, Django, Azure, Jira, Trello
 - **Databases and Tools**: MySQL, SQLite, MongoDB, Redis, Git, Docker, Apache Tomcat, AJAX, Apache Spark, Oracle
 
+## 💻 Project Experience (full-stack)
 
-## 📝 Publications 
+- **OnlineOrder: A Spring and Hibernate-Based Food Ordering System**  
+  *Mar 2024 - May 2024*  
+  - Developed a single-page web application using React and Ant Design, featuring an intuitive shopping cart and checkout process, resulting in a 10% improvement in user satisfaction scores.
 
-- **[An Empathy-Based Sandbox Approach to Bridge the Privacy Gap among Attitudes, Goals, Knowledge, and Behaviors](https://arxiv.org/abs/2309.14510)**  
-  *CHI 2024*  
-  **Authors**: Chaoran Chen, Weijun Li, Wenxin Song, Yanfang Ye, Yaxing Yao, Toby Jia-jun Li
+- **StayBooking: An Online Stay Rental Application with React and Spring Boot**  
+  *Apr 2023 - Jun 2023*  
+  - Developed a single-page web application using React and Ant Design for an enhanced, user-friendly experience.
 
+- **Twitch+: Personalized Resources Recommendation Engine**  
+  *Aug 2021 - Oct 2021*  
+  - Created a full-stack web application using the Twitch API to provide real-time personalized recommendations, increasing content relevancy by 25%.
+(more can be found on my LinkedIn: **LinkedIn**: [linkedin.com/in/wenxin-song/](https://www.linkedin.com/in/wenxin-song/))
 ## 🔬 Research Experience
 - *2023.06 - 2023.10*, **University of Notre Dame**, South Bend, IN  
   **Research Assistant**  
@@ -37,6 +44,12 @@ I'm currently pursuing a Software Development Engineer (SDE) internship for Summ
 - *2022.08 - 2024.04*, **The Chinese University of Hong Kong, Shenzhen**, Shenzhen, China  
   **Research Assistant**  
   - Led the development of a load generator to clone the performance of Spark applications without data leakage, achieving a 36.7% improvement in generation accuracy over conventional methods.
+
+## 📝 Publications 
+
+- **[An Empathy-Based Sandbox Approach to Bridge the Privacy Gap among Attitudes, Goals, Knowledge, and Behaviors](https://arxiv.org/abs/2309.14510)**  
+  *CHI 2024*  
+  **Authors**: Chaoran Chen, Weijun Li, Wenxin Song, Yanfang Ye, Yaxing Yao, Toby Jia-jun Li
   
 ## 📫 Connect with Me
 - **Email**: [ws2747@columbia.edu](mailto:ws2747@columbia.edu)
