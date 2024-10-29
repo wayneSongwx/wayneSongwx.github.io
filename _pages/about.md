@@ -22,3 +22,5 @@ redirect_from:
 {% include_relative includes/publication.md %}
 
 {% include_relative includes/honors.md %}
+
+{% include_relative includes/connect.md %}

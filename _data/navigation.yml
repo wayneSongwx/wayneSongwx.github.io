@@ -10,7 +10,7 @@ main:
     url: "/#-technical-skills"
 
   - title: "Project Experience"
-    url: "/#-project-experience"
+    url: "/#-project-experience-(full-stack)"
 
   - title: "Research Experience"
     url: "/#-research-experience"
@@ -19,4 +19,7 @@ main:
     url: "/#-publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors"
+    url: "/#-honors-and-awards"
+
+  - title: "Contact me"
+    url: "/#-contact-me"
