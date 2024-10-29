@@ -14,7 +14,11 @@ redirect_from:
 {% include_relative includes/professional_objective.md %}
 
 {% include_relative includes/education.md %}
+
 {% include_relative includes/technical_skills.md %}
+
 {% include_relative includes/project_experience.md %}
+
 {% include_relative includes/research_experience.md %}
+
 {% include_relative includes/publication.md %}
