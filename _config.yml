@@ -8,7 +8,7 @@ nx# Welcome to Jekyll!
 # Site Settings
 title                    : "Wayne's Website"
 description              : "Welcome to my website! "
-repository               : "wayneSongwx/wayneSongwx.github.io"
+repository               : "https://github.com/wayneSongwx/wayneSongwx.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
