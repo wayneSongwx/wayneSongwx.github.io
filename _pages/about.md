@@ -1,58 +1,47 @@
----
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+Welcome to My Website!
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+Hello, I'm Wenxin Song! 👋
 
-<span class='anchor' id='about-me'></span>
+I’m a Master’s student in Computer Science at Columbia University, with a strong foundation in software engineering and full-stack development. Driven by a passion for creating impactful, user-centered applications, I bring experience in building end-to-end solutions using Java, JavaScript, HTML/CSS, Python, and SQL.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+My recent projects include developing predictive analytics models and building EventEase, an accessible event management app tailored for the elderly. Additionally, I led the development of a full-stack project focused on event recommendations, where I implemented a content-based recommendation algorithm to enhance both user experience and recommendation accuracy. My two long-term research experiences have further strengthened my communication, collaboration, and problem-solving skills, preparing me for dynamic team environments.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I'm currently pursuing a Software Development Engineer (SDE) internship for Summer 2025, where I aim to leverage my technical expertise in a collaborative setting while learning from industry leaders.
 
+# 📖 Educations
+- *2024.08 - 2025.12*, **Columbia University**, New York, NY  
+  MS in Computer Science, Track: Software Systems  
+- *2020.09 - 2024.06*, **The Chinese University of Hong Kong, Shenzhen**, Shenzhen, China  
+  BS in Computer Science and Engineering
+  **Relevant Courses**: Object-Oriented Programming & Design, Data Structures & Algorithms, Databases, Operating Systems  
+  **Honors**: Undergraduate Research Awards, Dean's List, Scholarship
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## 🛠 Technical Skills
+- **Programming Languages**: Java, JavaScript, HTML/CSS, Python, SQL, Go, C++, Kotlin
+- **Frameworks and Platforms**: React, Node.js, Spring Boot, Flask, Django, AWS, Google Cloud, Azure
+- **Databases and Tools**: MySQL, SQLite, MongoDB, Redis, Docker, Git, Apache Spark
+
+# 🔥 
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[An Empathy-Based Sandbox Approach to Bridge the Privacy Gap among Attitudes, Goals, Knowledge, and Behaviors](https://arxiv.org/abs/2309.14510)  
+CHI 2024\
+Chaoran Chen, Weijun Li, Wenxin Song, Yanfang Ye, Yaxing Yao, Toby Jia-jun Li
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+# 💻 Research Experience
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+## 📫 Connect with Me
+- **Email**: [ws2747@columbia.edu](mailto:ws2747@columbia.edu)
+- **LinkedIn**: [linkedin.com/in/wenxin-song/](https://www.linkedin.com/in/wenxin-song/)
+- **GitHub**: [github.com/wayneSongwx](https://github.com/wayneSongwx)
+
+Thank you for visiting my profile!
