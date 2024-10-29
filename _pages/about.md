@@ -20,3 +20,5 @@ redirect_from:
 {% include_relative includes/research_experience.md %}
 
 {% include_relative includes/publication.md %}
+
+{% include_relative includes/honors.md %}
