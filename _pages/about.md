@@ -35,6 +35,7 @@ I'm currently pursuing a Software Development Engineer (SDE) internship for Summ
 - **Twitch+: Personalized Resources Recommendation Engine**  
   *Aug 2021 - Oct 2021*  
   - Created a full-stack web application using the Twitch API to provide real-time personalized recommendations, increasing content relevancy by 25%.
+
 (more can be found on my LinkedIn: **LinkedIn**: [linkedin.com/in/wenxin-song/](https://www.linkedin.com/in/wenxin-song/))
 ## 🔬 Research Experience
 - *2023.06 - 2023.10*, **University of Notre Dame**, South Bend, IN  
