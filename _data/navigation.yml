@@ -3,20 +3,20 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Professional"
-    url: "/#about-me"
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Technical Skills"
+    url: "/#-technical-skills"
+
+  - title: "Project Experience"
+    url: "/#-research-experience"
+
+  - title: "Research Experience"
+    url: "/#-research-experience"
 
   - title: "Publications"
     url: "/#-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "Internships"
-    url: "/#-internships"
