@@ -10,4 +10,3 @@ My two long-term research experiences have further strengthened my communication
 
 ## 💼 Professional Objective
 I'm currently pursuing a Software Development Engineer (SDE) internship for Summer 2025, where I aim to leverage my technical expertise in a collaborative setting while learning from industry leaders.
-
