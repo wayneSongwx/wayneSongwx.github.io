@@ -6,8 +6,8 @@ nx# Welcome to Jekyll!
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wayne's Website"
-description              : "Welcome to my website! "
+title                    : "Wenxin (Wayne) Song"
+description              : "First year Computer Science Graduate Student @ Columbia University."
 repository               : "https://github.com/wayneSongwx/wayneSongwx.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Wenxin (Wayne) Song"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  avatar           : 
+  bio              : "Columbia Univerisity"
+  location         : "New York, US"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : 
+  email            : "ws27@columbia.edu"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "wayneSongwx"
   google_plus      :
   keybase          :
   instagram        :
