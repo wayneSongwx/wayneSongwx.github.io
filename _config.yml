@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+nx# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Wenxin (Wayne) Song"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Lorem ipsum College"
   location         : "Beijing, China"
