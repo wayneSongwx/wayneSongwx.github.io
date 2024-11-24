@@ -1,12 +1,11 @@
 ## 💻 Project Experience (full-stack)
+- **[StayBooking: An Online Stay Rental Application with React and Spring Boot](https://github.com/wayneSongwx/Staybooking)**  
+  *Mar 2024 - May 2024*
+  -  A responsive stay rental application developed with React and Spring Boot, designed for a streamlined user experience. The platform integrates Elasticsearch for geo-based searches, supports media storage on Google Cloud, and features robust authentication using JWT and Spring Security. Backend services deployed on Google App Engine reduced response times by 25%, improving scalability and reliability for over 200 locations.
 
 - **[OnlineOrder: A Spring and Hibernate-Based Food Ordering System](https://github.com/wayneSongwx/OnlineOrder)**  
-  *Mar 2024 - May 2024*
-    - A seamless online food ordering system built with Spring and Hibernate, featuring a React-powered single-page interface and secure, efficient backend architecture. Implemented intuitive shopping cart functionality and RESTful APIs, supported by a scalable MySQL database. Enhanced with Spring Security to ensure data protection and modularity, the platform improved user satisfaction scores by 10%.
-
-- **[StayBooking: An Online Stay Rental Application with React and Spring Boot](https://github.com/wayneSongwx/Staybooking)**  
   *Apr 2023 - Jun 2023*
-    -  A responsive stay rental application developed with React and Spring Boot, designed for a streamlined user experience. The platform integrates Elasticsearch for geo-based searches, supports media storage on Google Cloud, and features robust authentication using JWT and Spring Security. Backend services deployed on Google App Engine reduced response times by 25%, improving scalability and reliability for over 200 locations.
+    - A seamless online food ordering system built with Spring and Hibernate, featuring a React-powered single-page interface and secure, efficient backend architecture. Implemented intuitive shopping cart functionality and RESTful APIs, supported by a scalable MySQL database. Enhanced with Spring Security to ensure data protection and modularity, the platform improved user satisfaction scores by 10%.
 
 - **[Twitch+: Personalized Resources Recommendation Engine](https://github.com/wayneSongwx/Twitch)**  
   *Aug 2021 - Oct 2021*

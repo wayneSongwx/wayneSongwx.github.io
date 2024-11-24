@@ -1,4 +1,4 @@
 ## 🛠 Technical Skills
-- **Programming Languages**: Java, JavaScript, HTML & CSS, SQL, Python, GO, C++, Kotlin, MATLAB, PowerShell, Bash
-- **Frameworks and Platforms**: React, Node.js, Spring Boot, Linux, Android, AWS EC2, Google Cloud Platform, Ant Design, Elasticsearch, Restful API, Jetpack Compose, Langchain, Google App Engine, Flask, Django, Azure, Jira, Trello
-- **Databases and Tools**: MySQL, SQLite, MongoDB, Redis, Git, Docker, Apache Tomcat, AJAX, Apache Spark, Oracle
+- **Programming Language**: Java, JavaScript, TypeScript, HTML, CSS, SQL, Python, C++, Kotlin, MATLAB, PowerShell, Bash.
+- **Frameworks and Platforms**: React, Spring Boot, Restful API, Node.js, Jetpack Compose, Flask, Django, Pytorch, Jira, Trello, Jenkins, CI/CD, AWS EC2 & RDS, Google Cloud Platform, Google App Engine, Azure, Linux, Android.
+- **Databases and Tools**: MySQL, PostgreSQL, MongoDB, Oracle, Git, Docker, Kubernetes, JUnit, Apache Tomcat, Maven. 
